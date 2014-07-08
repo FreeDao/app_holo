@@ -1,4 +1,4 @@
-package com.alex.util;
+package com.alex.utils;
 
 import android.content.Context;
 

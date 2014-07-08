@@ -1,8 +1,7 @@
-package com.alex.util;
+package com.alex.utils;
 
 import android.os.Build;
 import android.widget.AbsListView;
-import android.widget.ListView;
 
 
 public class ListViewUtils {
